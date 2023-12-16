@@ -1,4 +1,4 @@
-# Back End de Infomóvil
+# Back End de Proyecto de COMPUTER STRUCTURES (CSE611)
 
 # Arquitectura
 
